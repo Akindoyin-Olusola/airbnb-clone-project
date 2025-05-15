@@ -42,7 +42,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 **More UI/UX Design Planning**
 
-Figma Design Specifications
+**Figma Design Specifications**
 Color Styles:
 
 Primary: #FF5A5F
@@ -55,7 +55,7 @@ Text: #222222
 
 Secondary Text: #717171
 
-Typography:
+**Typography:**
 
 Primary Font: Circular, Medium (500), 16px
 
@@ -65,3 +65,63 @@ Secondary Text: Circular, Book (400), 14px
 
 Identifying design properties in a mockup is essential because it ensures clarity, consistency, and efficiency. It helps developers accurately translate the design, maintains a unified look across the product, and improves communication between teams. Clear properties like colors, typography, and spacing also enhance user experience and make the design easier to scale and maintain.
 
+**Project Roles and Responsibilities**
+Role	Responsibilities
+
+Project Manager
+
+Oversees timeline, coordinates team, manages deliverables
+
+Contribution to Success:
+Ensures the project stays on track, aligns with business goals, and is delivered on time and within budget.
+
+Frontend Developers
+
+Implements UI components, ensures responsive design
+
+Contribution to Success:
+Delivers the part of the product users directly interact with, shaping usability and user satisfaction.
+
+Backend Developers	
+
+Builds APIs, manages database, implements business logic
+
+Contribution to Success:
+Enables core functionality and handles data processing, ensuring the app runs reliably and efficiently.
+
+Designers	
+
+Creates mockups, maintains design system, ensures UX quality
+
+Contribution to Success:
+Ensures the product is intuitive, visually appealing, and meets user needs, enhancing engagement and satisfaction.
+
+QA/Testers	
+
+Writes test cases, performs testing, reports bugs
+
+Contribution to Success:
+Prevents defects from reaching users, ensuring a smooth, reliable product experience.
+
+DevOps Engineer
+
+Manages deployment, CI/CD pipeline, server infrastructure
+
+Contribution to Success:
+Supports rapid, stable releases and system reliability, reducing downtime and deployment errors.
+
+Product Owner	
+
+Defines requirements, prioritizes features, represents stakeholders
+
+Contribution to Success:
+Ensures the product delivers real value by focusing development on what matters most to users and stakeholders.
+
+
+
+Scrum Master	
+
+Facilitates agile processes, removes blockers, organizes meetings
+
+Contribution to Success:
+Keeps the team productive and focused, fostering collaboration and agility for fast, iterative delivery.
