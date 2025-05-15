@@ -68,60 +68,90 @@ Identifying design properties in a mockup is essential because it ensures clarit
 **Project Roles and Responsibilities**
 Role	Responsibilities
 
-Project Manager
+**Project Manager**
 
 Oversees timeline, coordinates team, manages deliverables
 
 Contribution to Success:
 Ensures the project stays on track, aligns with business goals, and is delivered on time and within budget.
 
-Frontend Developers
+**Frontend Developers**
 
 Implements UI components, ensures responsive design
 
 Contribution to Success:
 Delivers the part of the product users directly interact with, shaping usability and user satisfaction.
 
-Backend Developers	
+**Backend Developers**
 
 Builds APIs, manages database, implements business logic
 
 Contribution to Success:
 Enables core functionality and handles data processing, ensuring the app runs reliably and efficiently.
 
-Designers	
+**Designers**
 
 Creates mockups, maintains design system, ensures UX quality
 
 Contribution to Success:
 Ensures the product is intuitive, visually appealing, and meets user needs, enhancing engagement and satisfaction.
 
-QA/Testers	
+**QA/Testers**
 
 Writes test cases, performs testing, reports bugs
 
 Contribution to Success:
 Prevents defects from reaching users, ensuring a smooth, reliable product experience.
 
-DevOps Engineer
+**DevOps Engineer**
 
 Manages deployment, CI/CD pipeline, server infrastructure
 
 Contribution to Success:
 Supports rapid, stable releases and system reliability, reducing downtime and deployment errors.
 
-Product Owner	
+**Product Owner**
 
 Defines requirements, prioritizes features, represents stakeholders
 
 Contribution to Success:
 Ensures the product delivers real value by focusing development on what matters most to users and stakeholders.
 
-
-
-Scrum Master	
-
+**Scrum Master**
 Facilitates agile processes, removes blockers, organizes meetings
 
 Contribution to Success:
 Keeps the team productive and focused, fostering collaboration and agility for fast, iterative delivery.
+
+**UI COMPLONENTS PLANNING**
+**Planned Components**
+**Navbar**
+Logo
+
+Search bar
+
+User navigation
+
+Responsive menu
+
+**Property Card**
+
+Property image
+
+Basic details (price, location, rating)
+
+Favorite button
+
+Responsive layout
+
+**Footer**
+
+Site links
+
+Company information
+
+Social media links
+
+Copyright information
+
+Each component will be designed for reusability and consistency across the application.
