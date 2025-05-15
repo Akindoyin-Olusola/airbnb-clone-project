@@ -123,7 +123,7 @@ Facilitates agile processes, removes blockers, organizes meetings
 Contribution to Success:
 Keeps the team productive and focused, fostering collaboration and agility for fast, iterative delivery.
 
-**UI COMPLONENTS PLANNING**
+**UI COMPLONENT PATTERNS**
 **Planned Components**
 **Navbar**
 Logo
