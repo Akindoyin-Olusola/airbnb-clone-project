@@ -270,3 +270,91 @@ The level of detail suggests it's intended for usability testing and as a guide 
 **Implications for the Project:**
 
 Utilizing a high-fidelity wireframe at this stage allows for comprehensive usability testing and provides clear guidance for developers, ensuring that the final product aligns closely with the intended design.
+
+
+**WIREFRAMING TOOLS**
+
+Popular tools include Figma, Adobe XD, Sketch, and Balsamiq.
+
+
+**Popular Wireframing Tools**
+
+**1. Figma
+Overview:**
+
+Figma is a cloud-based UI/UX design tool that allows for real-time collaboration and prototyping. It works entirely in the browser and is accessible across devices without installing software.
+
+**Key Features:**
+
+Real-time team collaboration
+
+Browser-based (no installation required)
+
+Integrated prototyping and developer handoff
+
+Plugins and reusable design systems
+
+Version history and commenting
+
+**2. Adobe XD
+Overview:**
+
+Adobe XD is a desktop-based tool that supports wireframing, UI design, and prototyping. It integrates well with other Adobe tools like Photoshop and Illustrator.
+
+**Key Features:**
+
+Smooth performance for high-fidelity designs
+
+Interactive prototyping
+
+Voice interaction and animation support
+
+Strong ecosystem for Adobe users
+
+**3. Sketch
+Overview:**
+
+Sketch is a macOS-exclusive design tool known for its vector editing and UI design capabilities. It’s widely used by designers for static screen designs.
+
+**Key Features:**
+
+Powerful vector editing
+
+Extensive plugin community
+
+Artboards for responsive design
+
+Requires third-party tools for prototyping and collaboration
+
+**4. Balsamiq
+Overview:**
+
+Balsamiq focuses on low-fidelity wireframing, simulating sketch-like visuals. It’s great for quick concept development and early feedback.
+
+**Key Features:**
+
+Drag-and-drop interface
+
+Simple, hand-drawn-style components
+
+Fast idea iteration
+
+Best for early-stage mockups, not visual design
+
+**Why Figma Is the Best Choice**
+
+**Figma outshines the rest for several reasons:**
+
+**True Real-Time Collaboration:** Multiple team members can work on the same design simultaneously—perfect for remote teams and agile workflows.
+
+**Cross-Platform Access:** It works on any device via a browser—no need for OS-specific software.
+
+**All-in-One Tool:** Combines wireframing, UI design, prototyping, and feedback in a single platform.
+
+**Developer-Friendly:** Developers can inspect designs, copy CSS, and download assets directly—no back-and-forth.
+
+**Community & Plugins:** A huge design community shares templates, kits, and helpful plugins to speed up your workflow.
+
+
+
+
