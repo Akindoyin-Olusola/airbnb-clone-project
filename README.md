@@ -156,7 +156,7 @@ Copyright information
 
 Each component will be designed for reusability and consistency across the application.
 
-**Wireframing**
+**WIREFRAME**
 
 **What is Wireframing?**
 
@@ -172,10 +172,12 @@ Wireframing plays a critical role in UI/UX design for several reasons:
 **Identifies Potential Issues Early**: Makes it easier to spot usability problems or layout inefficiencies before they become costly to fix.
 **Guides Development**: Serves as a visual guide for developers to implement components accurately.
 
-**Key Elements of Wireframing**
+
+**KEY ELEMENTS OF WIREFRAME**
+
 
 **1. Layout Structure**
-**Description:**  
+Description: 
 Defines the basic grid and spatial arrangement of elements on a page.
 
 **Example Contribution:**  
@@ -203,3 +205,61 @@ Represents interactive elements such as buttons, input fields, dropdowns, and ic
 
 **Example Contribution:**  
 Including a “Book Now” button in the wireframe helps visualize the user’s next step and shows how conversion actions will be prioritized.
+
+
+**TYPES OF WIREFRAME**
+**Low-Fidelity Wireframes**
+Description:
+Low-fidelity wireframes are basic, simplified representations of a layout. They often use grayscale colors, placeholder boxes (e.g., for images or text), and minimal styling. These wireframes focus more on structure and flow than visual details.
+
+**When to Use:**
+
+Early in the design process
+
+For quick brainstorming and ideation
+
+When gathering initial feedback from stakeholders
+
+**Benefits:**
+
+Fast to create and easy to revise
+
+Encourages feedback on layout and functionality rather than visuals
+
+Cost-effective and flexible
+
+**High-Fidelity Wireframes**
+Description:
+High-fidelity wireframes are more detailed and closely resemble the final product. They include real content, typography, spacing, icons, and sometimes interactions or clickable prototypes.
+
+**When to Use:**
+
+After layout and structure are approved
+
+During the later design phases before development
+
+When usability testing or developer handoff is needed
+
+**Benefits:**
+
+Provides a realistic preview of the user experience
+
+Useful for stakeholder approval and development guidance
+
+Allows for detailed feedback on design and functionality
+
+**Airbnb-Clone-Project Wireframe**
+
+**Fidelity Level:**
+The wireframe is a high-fidelity wireframe.
+
+**Justification:**
+
+The wireframe includes detailed UI components such as specific typography, spacing, and icons.
+
+It closely resembles the final product's design, providing a realistic preview of the user experience.
+
+The level of detail suggests it's intended for usability testing and as a guide for development.
+
+**Implications for the Project:**
+Utilizing a high-fidelity wireframe at this stage allows for comprehensive usability testing and provides clear guidance for developers, ensuring that the final product aligns closely with the intended design.
