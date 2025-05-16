@@ -208,8 +208,11 @@ Including a “Book Now” button in the wireframe helps visualize the user’s 
 
 
 **TYPES OF WIREFRAME**
+
 **Low-Fidelity Wireframes**
+
 Description:
+
 Low-fidelity wireframes are basic, simplified representations of a layout. They often use grayscale colors, placeholder boxes (e.g., for images or text), and minimal styling. These wireframes focus more on structure and flow than visual details.
 
 **When to Use:**
@@ -229,7 +232,9 @@ Encourages feedback on layout and functionality rather than visuals
 Cost-effective and flexible
 
 **High-Fidelity Wireframes**
+
 Description:
+
 High-fidelity wireframes are more detailed and closely resemble the final product. They include real content, typography, spacing, icons, and sometimes interactions or clickable prototypes.
 
 **When to Use:**
@@ -251,6 +256,7 @@ Allows for detailed feedback on design and functionality
 **Airbnb-Clone-Project Wireframe**
 
 **Fidelity Level:**
+
 The wireframe is a high-fidelity wireframe.
 
 **Justification:**
@@ -262,4 +268,5 @@ It closely resembles the final product's design, providing a realistic preview o
 The level of detail suggests it's intended for usability testing and as a guide for development.
 
 **Implications for the Project:**
+
 Utilizing a high-fidelity wireframe at this stage allows for comprehensive usability testing and provides clear guidance for developers, ensuring that the final product aligns closely with the intended design.
