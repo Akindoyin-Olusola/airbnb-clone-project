@@ -155,3 +155,21 @@ Social media links
 Copyright information
 
 Each component will be designed for reusability and consistency across the application.
+
+**Wireframing**
+
+**What is Wireframing?**
+
+Wireframing is the process of creating a basic visual representation of a user interface layout. It outlines the structure and placement of elements on a screen—such as buttons, menus, images, and content—without focusing on design details like colors, fonts, or branding. Think of it as a blueprint or skeleton of a digital product.
+
+**Importance in the Design Process**
+
+Wireframing plays a critical role in UI/UX design for several reasons:
+
+- **Clarifies Structure**: Helps define the layout and hierarchy of information early in the design phase.
+- **Aligns the Team**: Ensures designers, developers, and stakeholders have a shared understanding of the product’s flow and functionality.
+- **Speeds Up Feedback**: Allows for quick iteration and review before investing in high-fidelity designs or development.
+- **Identifies Potential Issues Early**: Makes it easier to spot usability problems or layout inefficiencies before they become costly to fix.
+- **Guides Development**: Serves as a visual guide for developers to implement components accurately.
+
+
