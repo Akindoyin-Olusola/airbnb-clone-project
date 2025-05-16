@@ -166,10 +166,40 @@ Wireframing is the process of creating a basic visual representation of a user i
 
 Wireframing plays a critical role in UI/UX design for several reasons:
 
-- **Clarifies Structure**: Helps define the layout and hierarchy of information early in the design phase.
-- **Aligns the Team**: Ensures designers, developers, and stakeholders have a shared understanding of the product’s flow and functionality.
-- **Speeds Up Feedback**: Allows for quick iteration and review before investing in high-fidelity designs or development.
-- **Identifies Potential Issues Early**: Makes it easier to spot usability problems or layout inefficiencies before they become costly to fix.
-- **Guides Development**: Serves as a visual guide for developers to implement components accurately.
+**Clarifies Structure**: Helps define the layout and hierarchy of information early in the design phase.
+**Aligns the Team**: Ensures designers, developers, and stakeholders have a shared understanding of the product’s flow and functionality.
+**Speeds Up Feedback**: Allows for quick iteration and review before investing in high-fidelity designs or development.
+**Identifies Potential Issues Early**: Makes it easier to spot usability problems or layout inefficiencies before they become costly to fix.
+**Guides Development**: Serves as a visual guide for developers to implement components accurately.
 
+**Key Elements of Wireframing**
 
+**1. Layout Structure**
+**Description:**  
+Defines the basic grid and spatial arrangement of elements on a page.
+
+**Example Contribution:**  
+A two-column layout can prioritize main content on the left and supporting navigation or filters on the right, improving content readability and user flow.
+
+**2. Navigation**
+**Description:**  
+Includes menus, headers, sidebars, and links that guide users through the interface.
+
+**Example Contribution:**  
+A top navigation bar helps users move between key sections of a website or app (e.g., Home, Listings, Profile), making it easier to explore and use the platform.
+
+**3. Content Placement**
+
+**Description:**  
+Outlines where text, images, and media will be positioned on the page.
+
+**Example Contribution:**  
+Placing a property’s image and price at the top of the listing card gives users immediate access to crucial decision-making info, increasing engagement.
+
+**4. Functionality Indicators**
+
+**Description:**  
+Represents interactive elements such as buttons, input fields, dropdowns, and icons.
+
+**Example Contribution:**  
+Including a “Book Now” button in the wireframe helps visualize the user’s next step and shows how conversion actions will be prioritized.
